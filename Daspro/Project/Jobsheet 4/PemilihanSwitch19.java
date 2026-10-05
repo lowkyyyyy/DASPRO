@@ -35,6 +35,7 @@ public class PemilihanSwitch19 {
                 break;
             default :
                 System.out.println("Semester Tidak Valid");
+           
         }
             sc.close();    
     
